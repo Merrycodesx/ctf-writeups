@@ -8,12 +8,11 @@ solves: Unknown
 date: 2022-03-28
 ---
 
-# Exif   Metadata (Root-Me, Steganography Category)
+# Exif - Metadata 
+
+> Our sad friend pepo got lost! Can you find where he is ?The password is the city where pepo is located.
 
 ## Challenge Description
-Our sad friend pepo got lost! Can you find where he is ?The password is the city where pepo is located.
-
-## Solution
 The challenge is to find the location of pepo .
 ### Approach
 1. The challenge gives us a image file.![Exif   Metadata Screenshot](/assets/images/root-me/steganography/ch1.png).*no clue in the picture.*
