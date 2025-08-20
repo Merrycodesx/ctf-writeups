@@ -21,8 +21,7 @@ The challenge is to analyze the phone number looking txt file to get the flag.
 1. we are given text file that says 222-33-555-555-7-44-666-66-33
 
 2. Taking the clue from challenge name i assume its related to a mobile phone. The text file given looks like  a Multi-tap ABC code .It is used in mobile phones to type text/SMS on keyboard with a numeric keypad.
-![Steganomobile](/assets/images/root-me/steganography/Nokia_3210_3.jpg).*no clue in the picture.*
-2. let's check the metadata to find the location using exiftool.
-3. so with that when you tap number 2 thrice it writes 'C' ,when you tap number 3 twice it writes 'E'
+![Steganomobile](/assets/images/root-me/steganography/Nokia_3210_3.jpg).
 
+3. so with that when you tap number 2 thrice it writes 'C' ,when you tap number 3 twice it writes 'E'.Decrypt the given text using this method.
 
