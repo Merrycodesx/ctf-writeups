@@ -10,7 +10,7 @@ date: 2011-04-26
 > Énoncé “Rien de trop est un point dont on parle sans cesse et qu’on n’observe point.”Jean de La Fontaine
 ## Solution
 The challenge gives us an image file.
-![Dot And Next Line Screenshot](/assets/images/root-me/stegnaography/journal.jpg)
+![image](/assets/images/root-me/steganography/journal.jpg)
 
 the image looks like an ad for a house for sale, not that helpful. But if you look at the challenge name is says dont and next line.
 ### Approach
